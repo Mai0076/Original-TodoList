@@ -1,46 +1,15 @@
-# Getting Started with Create React App
+## 機能一覧
+| Topページ | リスト作成 |
+|---|---|
+| <img width="959" alt="スクリーンショット 2024-06-13 210501" src="https://github.com/Mai0076/Original-TodoList/assets/171343027/0f784fef-eb26-46e4-b1b9-58ec193652d5">| <img width="959" alt="top2" src="https://github.com/Mai0076/Original-TodoList/assets/171343027/6b5732df-91f2-437e-a1dc-cf25c5cefaa9">|
+| Todoリストをつくるサイトです | エンターキーを押すとリストが作成されます |
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+| リストの編集・削除 | デモ動画 |
+|---|---|
+| <img width="959" alt="top3" src="https://github.com/Mai0076/Original-TodoList/assets/171343027/1db8bc36-2ddb-4d1a-a834-ec3227826b7f">| <video src="https://github.com/Mai0076/Original-TodoList/assets/171343027/e056abce-3421-4746-9fe0-00acf21e12a5"> |
+| チェックボックスにチェックを入れると編集ができなくなります。右の赤いボタンを押すと削除できます。 | リストの作成から編集、削除の様子です。 |
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 使用技術
+| Category | Technology Stack |
+| --- | --- |
+| Frontend | TypeScript, tailwind |
